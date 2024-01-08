@@ -54,6 +54,7 @@ const NavBar = () => {
 
     return (
         <AppBar
+            className='audio-font'
             position="static"
             sx={{
                 backgroundColor: '#161c23',
