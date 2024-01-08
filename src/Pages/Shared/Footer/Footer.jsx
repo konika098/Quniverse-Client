@@ -42,7 +42,7 @@ const Footer = () => {
 
             </div>
 
-            <div className="bg-[#161c23] p-3 flex flex-col text-center pt-5 space-y-8 md:flex-row md:justify-between md:space-y-0">
+            <div className="bg-[#161c23] p-3 flex flex-col-reverse text-center pt-5 space-y-8 md:flex-row md:justify-between md:space-y-0">
                 <div className="flex mx-3 justify-between space-x-20 md:flex-row text-[#f48225] md:space-x-28 md:ml-20 lg:ml-24 lg:space-x-[13rem] xl:space-x-72 xl:ml-24">
                     <p>@ Copyright <strong>Company.</strong>All Rights Reserved</p>
                     <p>Designed by <span className="text-[#f48225]">Anil & Konika</span></p>
